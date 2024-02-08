@@ -9,6 +9,6 @@ Antes de iniciar o projeto você deverá configurar um ambiente virtual em pytho
 ## Utilização do modelo criado
 O modelo final foi implementado em função chamada ‘preco_sugerido’, para utilizar basta apenas instancia-la: preco_sugerido(). Após a imputação dos valores solicitados, a função retornará o preço sugerido para o aluguel do apartamento analisado. 
 
-##Autores
+## Autores
 
 **Everton de Souza Bandeira**
